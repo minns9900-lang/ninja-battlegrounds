@@ -1,0 +1,9 @@
+
+### **4. Push ke GitHub**
+```bash
+git init
+git add main.lua README.md
+git commit -m "Initial release v6.0"
+git branch -M main
+git remote add origin https://github.com/USERNAME/ninja-battlegrounds.git
+git push -u origin main
